@@ -1,4 +1,4 @@
-# seman-omnistack-11.0
+# semana-omnistack-11.0
  Be the Hero!
  
  Aplicação desenvolvida durante a semana Omnisctack 11.0 da Rockeseat. As tecnologias utilizadas foram: NodeJS (Backend), React (Frontend) e React Native (Mobile). 
